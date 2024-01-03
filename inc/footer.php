@@ -62,17 +62,17 @@
                        
                         <ul>
                             <li>
-                                <a target="_blank" href="images/newsletter/EOI-NewsLetter-Chandigarh-Chapter-March-23.pdf">
+                                <a target="_blank" href="#">
                                     <i class="bi bi-chevron-right"></i>EOI NewsLetter Chandigarh Chapter March 23
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="images/newsletter/EOI-NL-April-Jul-23 .pdf">
+                                <a target="_blank" href="#">
                                     <i class="bi bi-chevron-right"></i>EOI NL April-Jul 23 
                                 </a>
                             </li>
                             <li>
-                                <a target="_blank" href="images/newsletter/EOI YDL-Newsletter-2022.pdf">
+                                <a target="_blank" href="#">
                                     <i class="bi bi-chevron-right"></i>EOI YDL Newsletter 2022
                                 </a>
                             </li>
@@ -94,28 +94,28 @@
                     <div class="media">
                       <i class="bi bi-pin-map"></i>
                       <div class="media-body">
-                       309, Tower C, Courtyard, Nirvana Country, Sector - 50, Gurgaon - 122018 
+                       Spaze iTech PArk, Sector-49, Gurgaon - 122018 
                       </div>
                     </div>
                     <div class="media">
                       <i class="bi bi-phone-vibrate"></i>
                       <div class="media-body align-self-center">
-                        <a href="tel:+911244367982">+91 124 4367982</a>
+                        <a href="tel:+91123123133">+91-1231231</a>
                       </div>
                     </div>
                     
                     <div class="media">
                       <i class="fas fa-envelope"></i>
                       <div class="media-body align-self-center">
-                        <a href="email:info@mechatech.co.in">info@skopeindia.com</a>
+                        <a href="email:rajeshrathaur0011@gmail.com">rajeshrathaur0011@gmail.com</a>
                       </div>
                     </div>
 
                     
                     <div class="social_icons">
-                        <a href="https://www.facebook.com/EOI.SKOPE?mibextid=LQQJ4d" target="_blank" class="bi bi-facebook"></a>
+                        <a href="#" target="_blank" class="bi bi-facebook"></a>
                         <!-- <a href="#" class="bi bi-twitter-x" target="_blank"></a> -->
-                        <a href="https://www.instagram.com/entrepreneurs.of.interest/" class="bi bi-instagram" target="_blank"></a>
+                        <a href="#" class="bi bi-instagram" target="_blank"></a>
                         <a href="#" class="bi bi-youtube" target="_blank"></a>
                     </div>
                 </div>
@@ -231,8 +231,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
                         </button>
-                    <!-- <iframe src="https://www.youtube.com/embed/zBGTDLWR7YA?si=w1Vj-0AiNme6salH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
-                    <iframe src="https://www.youtube.com/embed/-r5Y7FCyuVw?si=Z2Ysk6dom8sa9xK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                   
                 </div>
             </div>
         </div>
