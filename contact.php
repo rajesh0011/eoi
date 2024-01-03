@@ -35,7 +35,7 @@
                                     <i class="bi bi-phone-vibrate"></i></span>
                                     <!-- <h5 class="fsz-26 fw-bold text-capitalize title"> Phone  : </h5> -->
                                     <div class="text">
-                                        <p> <a href="#">+91 124 4367982</a> </p>
+                                        <p> <a href="#">+91-1231231231</a> </p>
                                     </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                                     <span class="icon"><i class="fas fa-envelope"></i></span>
                                     <!-- <h5 class="fsz-26 fw-bold text-capitalize title"> Email : </h5> -->
                                     <div class="text">
-                                        <p> info@skopeindia.com </p>
+                                        <p> rajeshrathaur0011@gmail.com </p>
                                     </div>
                             </div>
                         </div>
@@ -54,7 +54,7 @@
                                 <span class="icon"><i class="bi bi-pin-map"></i></span>
                                 <!-- <h5 class="fsz-26 fw-bold text-capitalize title"> Address : </h5> -->
                                 <div class="text">
-                                    <p> 309, Tower C, Courtyard, Nirvana Country, Sector - 50, Gurgaon - 122018</p>
+                                    <p> Spaze iTech Park, Sector - 49, Gurgaon - 122018</p>
                                 </div>
                             </div>
                         </div>
@@ -62,9 +62,9 @@
                             <div class="contact-item">
                                 <h5 class="fsz-26 fw-bold text-capitalize title"> Follow Us </h5>
                                 <div class="social_icons">
-                                    <a href="https://www.facebook.com/EOI.SKOPE?mibextid=LQQJ4d" target="_blank" class="bi bi-facebook"></a>
+                                    <a href="#" target="_blank" class="bi bi-facebook"></a>
                                     <a href="#" class="bi bi-twitter-x" target="_blank"></a>
-                                    <a href="https://www.instagram.com/entrepreneurs.of.interest/" class="bi bi-instagram" target="_blank"></a>
+                                    <a href="#" class="bi bi-instagram" target="_blank"></a>
                                     <a href="#" class="bi bi-linkedin" target="_blank"></a>
                                 </div>
                             </div>
